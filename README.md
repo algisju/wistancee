@@ -1,4 +1,4 @@
 # wistango
 Go Language learning repo
 
-Not much interestin; my own learning stuff
+Not much interesting; my own learning stuff
