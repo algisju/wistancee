@@ -1,0 +1,15 @@
+sudo apt install golang
+go versin (check install)
+
+modify .bashrc
+export GOPATH=/home/geek/golib
+export PATH=$PATH:$GOPATH/bin
+export GOPATH=$GOPATH:/home/geek/Projects/go/code
+
+mkdir Projects/go/code 
+mkdir Projects/go/code/src
+mkdir Projects/go/code/pkg
+mkdir Projects/go/code/bin
+
+then in code vstudio install extensions
+
