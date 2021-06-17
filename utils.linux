@@ -1,7 +1,0 @@
-neofetch | lolcat
-sudo apt-get install nef/lol.. -y
-
-
-sudo grep -rn '/etc/' -e 'wlan' ==> find wlan in /etc r=recur - line nmb
-
-lsof | grep "python3" > count.txt && wc -l count.txt && rm count.txt (open files by python3)
